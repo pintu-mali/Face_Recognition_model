@@ -3,6 +3,7 @@
 Basic Requirements:
 
 Download haarcascade_frontalface_alt.xml
+
 Download the below libraries
 
 #pip install opencv-contrib-python
@@ -14,7 +15,7 @@ First Run the "Training_Data.py" To collect the dataset
 
 Step 2:
 
-Training the model "Model.py"
+Train the model "Model.py"
 
 Final step:
 
