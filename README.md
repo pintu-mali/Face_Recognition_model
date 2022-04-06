@@ -7,6 +7,9 @@ Download haarcascade_frontalface_alt.xml
 Download the below libraries
 
 #pip install opencv-contrib-python
+
+#pip install numpy
+
 #opencv-python
 
 Step 1:
