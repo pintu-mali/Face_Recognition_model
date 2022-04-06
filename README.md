@@ -10,7 +10,7 @@ Download the below libraries
 
 #pip install numpy
 
-#opencv-python
+#pip install opencv-python
 
 Step 1:
 
