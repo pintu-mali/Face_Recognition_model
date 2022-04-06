@@ -47,9 +47,9 @@ while True:
         if confidence > 91:
             cv2.putText(image, "Hey Pintu", (250, 450), cv2.FONT_HERSHEY_COMPLEX, 1, (0,255,0), 2)
             cv2.imshow('Face Recognition', image )
-            kubectl create -f service.yml
-            kubectl create -f rc.yml
-            kubectl create -f rs.yml
+            #kubectl create -f service.yml
+            #kubectl create -f rc.yml
+            #kubectl create -f rs.yml
             os.system("chrome https://www.google.com/search?q=vimal+daga")
             #cv2.destroyAllWindows() 
             # os.system("chrome https://www.google.com/search?q=vimal+daga")
