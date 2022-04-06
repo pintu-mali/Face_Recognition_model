@@ -23,3 +23,5 @@ Train the model "Model.py"
 Final step:
 
 Run the model "Run_model.py"
+
+NOTE: if u have image dataset with u then no need to run the first step just attach the path of the dataset while training the model
